@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Immanuel Ahanonu
 
-- 👀 I’m interested in FullStack Development, Web 3.0 and Cryptography
+- 👀 I’m interested in FullStack Development, Web 3.0 and Cryptography and currently into Blockchain development
   
 - 🌱 I’m currently learning Javascript, Python and React with Html and CSS
   
