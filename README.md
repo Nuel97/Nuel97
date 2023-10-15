@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in FullStack Development, Web 3.0 and Cryptography and currently into Blockchain development
   
-- 🌱 I’m currently learning Javascript, Python and React with Html and CSS
+- 🌱 I’m currently learning Javascript, Python, Solidity and React with Html and CSS
   
 - 📫 How to reach me chukwudubemimmanuel@gmail.com
 
